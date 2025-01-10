@@ -106,7 +106,7 @@ body {
 }
 .hero-text {
     position: absolute;
-    top: 70%;
+    top: 60%;
     left: 13%;
     transform: translate(0, -50%);
     text-align: left;
